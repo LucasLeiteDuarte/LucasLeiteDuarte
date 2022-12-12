@@ -1,11 +1,30 @@
-![banner](https://www.axis.com/sites/axis/files/styles/landscape_1920_x_768_jpg/public/2021-09/eyes_binary_code_2109_with_shadow_3840x1536.jpg?h=71e592e0&itok=8_GSHgrJ])
-<h1 align="center">welcome!! Come warm your frozen boots by the fire I'm Lucas.</h1>
-<h3 align="center">Frontend developer and tech enthusiast.</h3>
+![giff](https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/wall/5dccaf139668821.623369988a107.gif?raw=true)
+<h1 align="center">:scroll:Sobre</h1>
 
+  
+<div>
+     <div>
+<a href="https://github.com/LucasleiteDuarte">
+<img height="180px",
+     width="470px"
+     src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/1ef3ae154783765.Y3JvcCw5MjAsNzIwLDE4MCww.gif?raw=true"
+     />
+</div>
+    <p>
+:arrow_forward: Em processo de transição de carreira, sempre buscando conhecimento <br>para poder avançar e me destacar no mercado de trabalho e assim <br> alcançar minha tão sonhada primeira vaga como dev front-end.
+
+:computer: Estudo na Universidade Cruzeiro do Sul e na escola de formação de <br> devs Rocketseat. <br>Estou praticando HTML, CSS, JavaScript e React na Rocketseat.
+
+:space_invader: Meu objetivo num futuro próximo, é me tornar desenvolvedor <br>Front-End Web e Mobile:space_invader:
+</p>
+
+</div>
 <div align="center">
   <a href="https://github.com/LucasleiteDuarte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasleiteDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasleiteDuarte&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=LucasleiteDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasleiteDuarte&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
