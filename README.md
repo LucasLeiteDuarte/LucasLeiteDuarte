@@ -11,7 +11,8 @@
     <li>:computer: Estudo na Universidade Cruzeiro do Sul e na escola de formação de devs Rocketseat. Estou praticando HTML, CSS, JavaScript e React na Rocketseat.</li><br>
     <li>:space_invader: Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End Web e Mobile:space_invader:</li><br>
 </ul>
-
+<br>
+<br>
 <br>
 <h2 align="center">:wrench: <i>Ｔｅｃｎｏｌｏｇｉａ</i> :wrench:</h2>
 <br>
@@ -118,9 +119,7 @@
 <p align="center">
   <a href = "mailto:lucasleitet@gmail.com" alt="e-mail"><img height="72px" width="72px" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" target="_blank">
   </a>
-   <a href="https://www.linkedin.com/in/lucas-duarte-4b4964251/" target="_blank" rel="noreferrer">
-       
-    <img height="72px" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin">
+   <a href= "https://www.linkedin.com/in/lucas-duarte-4b4964251/" ><img height="72px" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" target="_blank" rel="noreferrer"alt="linkedin">
   </a>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
