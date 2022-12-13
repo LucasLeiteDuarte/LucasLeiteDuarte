@@ -120,7 +120,7 @@
 <p align="center">
   <a href = "mailto:lucasleitet@gmail.com" alt="e-mail"><img height="72px" width="72px" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" target="_blank">
   </a>
-   <a target="_blank" href="https://www.linkedin.com/in/lucas-duarte-4b4964251/" alt="Linkedin">
+   <a target="_blank" href="https://www.linkedin.com/in/lucas-duarte-4b4964251/" target="_blank" alt="Linkedin">
     <img height="72px" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin">
   </a>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
