@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
+<h2 align="center">:floppy_disk: <i>Ｓｏｂｒｅ</i> :floppy_disk:</h2>
 
 <img align="right" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem2.gif?raw=true" width="313px" height="313px" alt="">
 <br>
@@ -15,7 +15,7 @@
 </ul>
 
 <br>
-<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
+<h2 align="center">:wrench: <i>Ｔｅｃｎｏｌｏｇｉａ</i> :wrench:</h2>
 <br>
 <br>
 <br>
@@ -111,7 +111,7 @@
 <br>
 <br>
 
-<h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
+<h2 align="center">:mailbox_with_no_mail: <i>Ｃｏｎｔａｔｏ</i> :mailbox_with_no_mail:</h2>
 <br>
 <br>
 <br>
