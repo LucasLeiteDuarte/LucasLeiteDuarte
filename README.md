@@ -6,8 +6,6 @@
 
 <img align="right" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem2.gif?raw=true" width="313px" height="313px" alt="">
 <br>
-<br>
-<br>
 <ul align="left">
     <li>:arrow_forward: Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.</li><br>
     <li>:computer: Estudo na Universidade Cruzeiro do Sul e na escola de formação de devs Rocketseat. Estou praticando HTML, CSS, JavaScript e React na Rocketseat.</li><br>
@@ -120,7 +118,7 @@
 <p align="center">
   <a href = "mailto:lucasleitet@gmail.com" alt="e-mail"><img height="72px" width="72px" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" target="_blank">
   </a>
-   <a href="https://www.linkedin.com/in/lucas-duarte-4b4964251/" target="_blank" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/lucas-duarte-4b4964251/" target="blank" alt="Linkedin">
     <img height="72px" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedin">
   </a>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
