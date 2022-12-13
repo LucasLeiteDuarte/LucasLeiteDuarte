@@ -13,12 +13,13 @@
     <li>:computer: Estudo na Universidade Cruzeiro do Sul e na escola de formação de devs Rocketseat. Estou praticando HTML, CSS, JavaScript e React na Rocketseat.</li><br>
     <li>:space_invader: Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End Web e Mobile:space_invader:</li><br>
 </ul>
+
 <br>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <br>
 <br>
 <br>
-<img align="left" height="295px" width="480px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
+<img align="left" height="295px" width="380px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
