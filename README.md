@@ -18,7 +18,7 @@
 <br>
 <br>
 <br>
-<img align="left" height="295px" width="600px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
+<img align="left" height="295px" width="550px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
