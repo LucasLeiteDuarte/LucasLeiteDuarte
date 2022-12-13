@@ -15,7 +15,9 @@
 </ul>
 <br>
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
-
+<br>
+<br>
+<br>
 <img align="left" height="295px" width="600px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
 <table align="right" height="300px">
   <tr>
@@ -105,8 +107,13 @@
   </tr> -->
 </table> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
+<br>
+<br>
+<br>
 <img align="left" width="440px" height="180px" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/imagem5.gif?raw=true" alt="">
 <br><br>
 <p align="center">
