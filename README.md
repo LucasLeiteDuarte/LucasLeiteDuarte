@@ -14,7 +14,7 @@
 </ul>
 <h2 align="center">:wrench: <i>Ｔｅｃｎｏｌｏｇｉａ</i> :wrench:</h2>
 
-<img align="left" height="295px" width="550px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
+<img align="left" height="295px" width="450px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
 <table align="right">
   <tr>
     <td align="center">
