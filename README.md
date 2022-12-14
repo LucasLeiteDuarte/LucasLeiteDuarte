@@ -1,25 +1,21 @@
-<img align="left" width="100%" alt="about" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/imagem4.gif?raw=true"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<img align="left" height="500px" width="1000px" lt="about" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/imagem4.gif?raw=true"/>
+<br>
+<br>
 
 <h2 align="center">:floppy_disk: <i>Ｓｏｂｒｅ</i> :floppy_disk:</h2>
 
-<img align="right" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem2.gif?raw=true" width="313px" height="313px" alt="">
+<img align="right" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem2.gif?raw=true" width="313px" height="250px" alt="">
+<br>
 <br>
 <ul align="left">
     <li>:arrow_forward: Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.</li><br>
     <li>:computer: Estudo na Universidade Cruzeiro do Sul e na escola de formação de devs Rocketseat. Estou praticando HTML, CSS, JavaScript e React na Rocketseat.</li><br>
     <li>:space_invader: Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End Web e Mobile:space_invader:</li><br>
 </ul>
-<br>
-<br>
-<br>
 <h2 align="center">:wrench: <i>Ｔｅｃｎｏｌｏｇｉａ</i> :wrench:</h2>
-<br>
-<br>
-<br>
+
 <img align="left" height="295px" width="380px" alt="quote" src="https://github.com/LucasLeiteDuarte/LucasLeiteDuarte/blob/main/Usar/Imagem1.gif?raw=true"/>
-<table align="right" height="300px">
+<table align="right", padding= 1px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
@@ -71,7 +67,7 @@
           <pre>Vite</pre>
         </b>
       </sub>
-    </td>-->
+    </td>
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
       <sub>
@@ -87,7 +83,7 @@
           <pre>&emsp;Git&emsp;</pre>
         </b>
       </sub>
-    </td>
+    </td>-->
    <!-- <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
       <sub>
