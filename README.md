@@ -52,7 +52,7 @@
       </sub>
     </td>
    </tr>
-    <!--<td align="center">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
       <sub>
         <b>
@@ -62,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <!--<td align="center">
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
       <sub>
         <b>
