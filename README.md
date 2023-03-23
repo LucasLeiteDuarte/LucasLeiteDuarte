@@ -10,7 +10,7 @@
 <br>
 <br>
 <ul align="left" >
-    <li >:arrow_forward: Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me <br> destacar no mercado de trabalho.</li><br>
+    <li >:arrow_forward: Em processo de transição de carreira, sempre buscando conhecimento para poder avançar <br> e me destacar no mercado de trabalho.</li><br>
     <li>:computer: Estudo na Universidade Cruzeiro do Sul e na escola de formação de devs Rocketseat. Estou praticando HTML, CSS, JavaScript e React na Rocketseat.</li><br>
     <li>:space_invader: Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End Web e Mobile:space_invader:</li><br>
 </ul>
