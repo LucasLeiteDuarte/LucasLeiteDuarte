@@ -2,7 +2,7 @@
 
 Web Developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Duarte-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-duarte/)](https://www.linkedin.com/in/lucas-duarte/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Duarte-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-duarte-4b4964251//)](https://www.linkedin.com/in/lucas-duarte-4b4964251/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasleitet@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasleitet@gmail.com)](mailto:lucasleitet@gmail.com)
 
 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar
